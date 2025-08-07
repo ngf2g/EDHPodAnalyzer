@@ -1,0 +1,87 @@
+1 Ajani, Sleeper Agent
+1 Arcane Signet
+1 Atraxa, Praetors' Voice
+1 Birds of Paradise
+1 Bloodfell Caves
+1 Blossoming Sands
+1 Breach the Multiverse
+1 Brimaz, Blight of Oreskos
+1 Command Tower
+1 Commander's Sphere
+1 Corruption of Towashi
+1 Cultivate
+1 Deadly Rollick
+1 Delighted Halfling
+1 Demonic Tutor
+1 Elesh Norn
+1 Elesh Norn, Grand Cenobite
+1 Elesh Norn, Mother of Machines
+1 Enlightened Tutor
+1 Essence of Orthodoxy
+1 Etali, Primal Conqueror
+1 Evolving Wilds
+1 Exotic Orchard
+1 Farseek
+1 Fellwar Stone
+1 Festering Gulch
+5 Forest
+1 Gix, Yawgmoth Praetor
+1 Glistening Dawn
+1 Grafted Butcher
+1 Herald's Horn
+1 Heroic Intervention
+1 Ignoble Hierarch
+1 Invasion of Alara
+1 Invasion of Zendikar
+4 Island
+1 Jin-Gitaxias, Progress Tyrant
+1 Jungle Hollow
+1 Kami of Whispered Hopes
+1 Lightning Greaves
+1 Merciless Repurposing
+1 Mondrak, Glory Dominus
+2 Mountain
+1 Myriad Landscape
+1 Orzhov Guildgate
+1 Path to Exile
+1 Phyrexian Awakening
+1 Phyrexian Censor
+1 Phyrexian Obliterator
+5 Plains
+1 Polukranos Reborn
+1 Progenitor Exarch
+1 Putrefy
+1 Realmbreaker, the Invasion Tree
+1 Revitalizing Repast
+1 Roaming Throne
+1 Rugged Highlands
+1 Scoured Barrens
+1 Sculpted Perfection
+1 Sheoldred
+1 Sheoldred, Whispering One
+1 Sol Ring
+1 Starry-Eyed Skyrider
+1 Sunfall
+7 Swamp
+1 Swan Song
+1 Swiftwater Cliffs
+1 Swords to Plowshares
+1 Tangled Skyline
+1 Tranquil Cove
+1 Urabrask
+1 Urabrask the Hidden
+1 Urabrask, Heretic Praetor
+1 Urza's Incubator
+1 Urza's Ruinous Blast
+1 Vorinclex
+1 Vorinclex, Monstrous Raider
+1 Vorinclex, Voice of Hunger
+1 Wrenn and Realmbreaker
+1 Wurmcoil Engine
+1 Zopandrel, Hunger Dominus
+
+SIDEBOARD:
+1 Barrensteppe Siege
+1 Glacierwood Siege
+
+1 Morophon, the Boundless

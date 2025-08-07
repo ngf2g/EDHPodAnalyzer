@@ -1,0 +1,117 @@
+1 Ancestral Vision
+1 Arcane Signet
+1 Archfiend of Despair
+1 Birgi, God of Storytelling
+1 Blasphemous Act
+1 Blazemire Verge
+1 Blood Crypt
+1 Blood for the Blood God!
+1 Bloodstained Mire
+1 Brainstorm
+1 Cabal Ritual
+1 Chandra, Torch of Defiance
+1 Chaos Warp
+1 Command Tower
+1 Court of Ambition
+1 Cryptborn Horror
+1 Cryptolith Fragment
+1 Dark Ritual
+1 Deadly Rollick
+1 Delayed Blast Fireball
+1 Descent into Avernus
+1 Dig Through Time
+1 Dragonskull Summit
+1 Drowned Catacomb
+1 Duskmantle Seer
+1 Exalted Flamer of Tzeentch
+1 Exotic Orchard
+1 Fabled Passage
+1 Fellwar Stone
+1 Fiery Emancipation
+1 Florian, Voldaren Scion
+1 Frantic Search
+1 Geyadrone Dihada
+1 Glen Elendra Archmage
+1 Guttersnipe
+1 Haunted Ridge
+1 Heartless Hidetsugu
+1 Irenicus's Vile Duplication
+2 Island
+1 Jeska's Will
+1 Keen Duelist
+1 Keeper of Secrets
+1 Leechridden Swamp
+1 Lightning Greaves
+1 Lotus Bloom
+1 Loyal Subordinate
+1 Luxury Suite
+1 Midnight Clock
+1 Morphic Pool
+3 Mountain
+1 Mystic Remora
+1 Nalfeshnee
+1 Neheb, the Eternal
+1 Nightscape Familiar
+1 Noise Marine
+1 Otawara, Soaring City
+1 Passionate Archaeologist
+1 Polluted Delta
+1 Profane Tutor
+1 Prosper, Tome-Bound
+1 Protection Racket
+1 Rakdos Charm
+1 Rakdos, Lord of Riots
+1 Scalding Tarn
+1 See the Truth
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Siren Stormtamer
+1 Snap
+1 Snuff Out
+1 Sol Ring
+1 Spear Spewer
+1 Spinerock Knoll
+1 Steam Vents
+1 Stormcarved Coast
+1 Stormfist Crusader
+1 Submerge
+1 Sulfur Falls
+1 Sulfurous Springs
+2 Swamp
+1 Swiftfoot Boots
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Tectonic Giant
+1 Thermo-Alchemist
+1 Training Center
+1 Treasure Cruise
+1 Underground River
+1 Urborg, Tomb of Yawgmoth
+1 Valakut Awakening
+1 Watery Grave
+1 Windfall
+1 Wound Reflection
+1 Xander's Lounge
+
+SIDEBOARD:
+1 Baral's Expertise
+1 Bloodletter of Aclazotz
+1 Bloodsoaked Insight
+1 Bojuka Bog
+1 Boltwave
+1 Call Forth the Tempest
+1 City on Fire
+1 Clever Impersonator
+1 Creeping Bloodsucker
+1 Curtains' Call
+1 Mana Geyser
+1 Mount Doom
+1 Pyrohemia
+1 Sol Talisman
+1 Solphim, Mayhem Dominus
+1 Spark Double
+1 Spawn of Mayhem
+1 Wild-Magic Sorcerer
+
+1 Abaddon the Despoiler

@@ -1,0 +1,108 @@
+1 Agadeem's Awakening
+1 Anger
+1 Arcane Signet
+1 Arena of Glory
+1 Ashnod's Altar
+1 Avenger of the Fallen
+1 Badlands
+1 Blazemire Verge
+1 Blood Artist
+1 Blood Crypt
+1 Bloodstained Mire
+1 Broadside Bombardiers
+1 Burnt Offering
+1 Cabal Coffers
+1 Captain Lannery Storm
+1 Cavern-Hoard Dragon
+1 Chaos Warp
+1 Command Tower
+1 Deadly Dispute
+1 Deflecting Swat
+1 Delayed Blast Fireball
+1 Drossforge Bridge
+1 Expedition Map
+1 Exsanguinate
+1 Fellwar Stone
+1 Fire Covenant
+1 Generous Plunderer
+1 Goblin Bombardment
+1 Goldspan Dragon
+1 Graven Cairns
+1 Great Furnace
+1 Grim Hireling
+1 Grim Servant
+1 Haunted Ridge
+1 Headliner Scarlett
+1 Hearthborn Battler
+1 Horizon of Progress
+1 Infantry Shield
+1 Insurrection
+1 Kellogg, Dangerous Mind
+1 Kiki-Jiki, Mirror Breaker
+1 Knuckles the Echidna
+1 Laelia, the Blade Reforged
+1 Living Death
+1 Lotus Petal
+1 Loyal Apprentice
+1 Luxury Suite
+1 Marionette Apprentice
+1 Mount Doom
+3 Mountain
+1 Mox Opal
+1 Necron Deathmark
+1 Orcish Bowmasters
+1 Phyrexian Altar
+1 Phyrexian Reclamation
+1 Phyrexian Tower
+1 Pitiless Plunderer
+1 Plaza of Heroes
+1 Prismatic Vista
+1 Professional Face-Breaker
+1 Ragavan, Nimble Pilferer
+1 Rakdos Carnarium
+1 Rakdos Signet
+1 Raucous Theater
+1 Screaming Nemesis
+1 Sephiroth, Fabled SOLDIER
+1 Shadowblood Ridge
+1 Shadowspear
+1 Shinka, the Bloodsoaked Keep
+1 Skullclamp
+1 Sneak Attack
+1 Sokenzan, Crucible of Defiance
+1 Sol Ring
+1 Sulfurous Springs
+2 Swamp
+1 Takenuma, Abandoned Mire
+1 Talisman of Indulgence
+1 Tempt with Vengeance
+1 The Meathook Massacre
+1 The One Ring
+1 Tibalt's Trickery
+1 Tombstone Stairwell
+1 Toxic Deluge
+1 Undead Sprinter
+1 Unexpected Windfall
+1 Urabrask's Forge
+1 Urborg, Tomb of Yawgmoth
+1 Urza's Cave
+1 Urza's Saga
+1 Vault of Whispers
+1 Vein Ripper
+1 Viscera Seer
+1 Warren Soultrader
+1 Yahenni, Undying Partisan
+1 Yawgmoth, Thran Physician
+1 Zulaport Cutthroat
+
+SIDEBOARD:
+1 Black Market Connections
+1 Blasphemous Act
+1 Deadly Rollick
+1 Hideous Taskmaster
+1 Nykthos, Shrine to Nyx
+1 Reanimate
+1 Seize the Spotlight
+1 The Warring Triad
+
+1 Shadow the Hedgehog

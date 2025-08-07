@@ -1,0 +1,82 @@
+1 Access Tunnel
+1 Ankle Biter
+1 Arcane Signet
+1 Assassin's Trophy
+1 Beast Within
+1 Beastmaster Ascension
+1 Birds of Paradise
+1 Bojuka Bog
+1 Caustic Bronco
+1 Champion of Lambholt
+1 Changeling Outcast
+1 Command Tower
+1 Corrupted Conviction
+1 Cover of Darkness
+1 Dark Ritual
+1 Dictate of Erebos
+1 Exotic Orchard
+1 Fang of Shigeki
+1 Fog
+14 Forest
+1 Fynn, the Fangbearer
+1 Go for the Throat
+1 Golgari Charm
+1 Grievous Wound
+1 Grim Backwoods
+1 Harmonize
+1 Haunted Mire
+1 Hexdrinker
+1 Hooded Blightfang
+1 Lightning Greaves
+1 Llanowar Wastes
+1 Marsh Boa
+1 Metallic Mimic
+1 Mire Boa
+1 Moss Viper
+1 Nature's Claim
+1 Necroblossom Snarl
+1 Night's Whisper
+1 Ohran Frostfang
+1 Ohran Viper
+1 Orochi Hatchery
+1 Orochi Sustainer
+1 Parallel Lives
+1 Patchwork Banner
+1 Persistent Constrictor
+1 Pharika, God of Affliction
+1 Phyrexian Arena
+1 Prowling Serpopard
+1 Rampant Growth
+1 Realmwalker
+1 Rhonas's Monument
+1 River Boa
+1 Rogue's Passage
+1 Rottenmouth Viper
+1 Sakura-Tribe Elder
+1 Saryth, the Viper's Fang
+1 Seshiro the Anointed
+1 Skullclamp
+1 Snake Pit
+1 Snakeskin Veil
+1 Sol Ring
+1 Sosuke's Summons
+10 Swamp
+1 Tainted Wood
+1 Talisman of Resilience
+1 Triumph of the Hordes
+1 Twilight Mire
+1 Vanquisher's Banner
+1 Village Rites
+1 Viridescent Bog
+1 Viridian Longbow
+1 Vizier of the Menagerie
+1 Vraska, Golgari Queen
+1 Wasteland Viper
+1 Whispersilk Cloak
+1 Woodland Cemetery
+1 Wound Reflection
+
+SIDEBOARD:
+1 Guardian Project
+
+1 Aphelia, Viper Whisperer
